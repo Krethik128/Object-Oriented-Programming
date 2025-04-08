@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.inventory;
+package geVernova.classesandobject.inventory;
 
 class Item {
     private int itemCode;

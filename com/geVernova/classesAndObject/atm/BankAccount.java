@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.atm;
+package geVernova.classesandobject.atm;
 
 class BankAccount {
     private String accountHolder;

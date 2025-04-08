@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.bookClass;
+package geVernova.classesandobject.bookclass;
 
 public class BookClass {
     public static void main(String[] args) {

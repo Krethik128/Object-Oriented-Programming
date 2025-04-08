@@ -1,8 +1,8 @@
-package geVernova.classesAndObject.atm;
+package geVernova.classesandobject.atm;
 
 public class ATM {
     public static void main(String[] args){
-        BankAccount obj1=new BankAccount("Krethik","MKPK54321",50000);
-        obj1.displayBalance();
+        BankAccount account=new BankAccount("Krethik","MKPK54321",50000);
+        account.displayBalance();
     }
 }

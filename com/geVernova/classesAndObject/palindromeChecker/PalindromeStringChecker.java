@@ -1,8 +1,8 @@
-package geVernova.classesAndObject.palindromeChecker;
+package geVernova.classesandobject.palindromechecker;
 
 public class PalindromeStringChecker {
     public static void main(String[] args){
-        PalindromeChecker racecaR=new PalindromeChecker("RacecaR");
-        racecaR.displayResult();
+        PalindromeChecker racecar=new PalindromeChecker("RacecaR");
+        racecar.displayResult();
     }
 }

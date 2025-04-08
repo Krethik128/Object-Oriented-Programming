@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.mobileClass;
+package geVernova.classesandobject.mobileclass;
 
 class MobilePhone {
     private String brand;

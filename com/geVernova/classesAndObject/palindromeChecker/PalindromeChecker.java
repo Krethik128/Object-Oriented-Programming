@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.palindromeChecker;
+package geVernova.classesandobject.palindromechecker;
 
 class PalindromeChecker {
     private String text;

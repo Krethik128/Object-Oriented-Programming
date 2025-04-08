@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.mobileClass;
+package geVernova.classesandobject.mobileclass;
 
 public class Mobileclass {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.bookingSystem;
+package geVernova.classesandobject.bookingsystem;
 
 public class BookingSystem {
     public static void main(String[] args){

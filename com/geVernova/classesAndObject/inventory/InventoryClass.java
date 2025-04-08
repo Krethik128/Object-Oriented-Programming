@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.inventory;
+package geVernova.classesandobject.inventory;
 
 public class InventoryClass {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.circleDemo;
+package geVernova.classesandobject.circledemo;
 
 class Circle {
     private double radius;

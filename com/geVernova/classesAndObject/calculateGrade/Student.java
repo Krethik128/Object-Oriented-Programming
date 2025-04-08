@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.calculateGrade;
+package geVernova.classesandobject.calculategrade;
 
 class Student {
     private String name;

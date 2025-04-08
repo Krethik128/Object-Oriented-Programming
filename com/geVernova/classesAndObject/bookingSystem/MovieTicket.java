@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.bookingSystem;
+package geVernova.classesandobject.bookingsystem;
 
 class MovieTicket {
     private String movieName;

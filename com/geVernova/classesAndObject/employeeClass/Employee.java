@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.employeeClass;
+package geVernova.classesandobject.employeeclass;
 
 class Employee {
     private String name;

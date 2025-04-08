@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.calculateGrade;
+package geVernova.classesandobject.calculategrade;
 
 public class CalculateGrade {
     public static void main(String[] args) {

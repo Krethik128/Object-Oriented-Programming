@@ -1,4 +1,4 @@
-package geVernova.classesAndObject.shoppingCart;
+package geVernova.classesandobject.shoppingcart;
 
 public class ShoppingCart {
     public static void main(String[] args){
