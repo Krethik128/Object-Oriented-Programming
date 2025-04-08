@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.universityManagment;
+package geVernova.constructors.accessmodifiers.universitymanagment;
 
 public class UniversityManagementSystem {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.universityManagment;
+package geVernova.constructors.accessmodifiers.universitymanagment;
 
 class PostgraduateStudent extends Student {
     private String specialization;

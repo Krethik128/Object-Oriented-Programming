@@ -1,4 +1,4 @@
-package geVernova.constructors.instances.productInventory;
+package geVernova.constructors.instances.productinventory;
 
 class Product {
     private String productName;

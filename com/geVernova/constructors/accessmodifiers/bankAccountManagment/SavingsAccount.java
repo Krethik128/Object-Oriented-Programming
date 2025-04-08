@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.bankAccountManagment;
+package geVernova.constructors.accessmodifiers.bankaccountmanagment;
 
 class SavingsAccount extends BankAccount {
 

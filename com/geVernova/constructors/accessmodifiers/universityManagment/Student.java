@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.universityManagment;
+package geVernova.constructors.accessmodifiers.universitymanagment;
 
 class Student {
     public int rollNumber;

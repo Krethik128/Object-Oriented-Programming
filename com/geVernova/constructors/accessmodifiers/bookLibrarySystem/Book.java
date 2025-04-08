@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.bookLibrarySystem;
+package geVernova.constructors.accessmodifiers.booklibrarysystem;
 
 class Book {
     public int ISBN;

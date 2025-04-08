@@ -1,4 +1,4 @@
-package geVernova.constructors.instances.onlineCourses;
+package geVernova.constructors.instances.onlinecourses;
 
 class Course {
     private String courseName;

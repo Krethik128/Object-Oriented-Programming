@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.employeeRecords;
+package geVernova.constructors.accessmodifiers.employeerecords;
 
 class Manager extends Employee {
 
