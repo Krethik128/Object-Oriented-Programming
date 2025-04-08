@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.universitymanagment;
+package geVernova.constructors.accessmodifiers.universityManagment;
 
 class Student {
     public int rollNumber;
@@ -16,10 +16,10 @@ class Student {
     }
 
     void display() {
-        System.out.println("Name: " + name); // ✅ name is protected, accessible here
-        System.out.println("Roll No: " + rollNumber); // ✅ public
+        System.out.println("Name: " + name);
+        System.out.println("Roll No: " + rollNumber);
         System.out.println("Unchanged name: " + name);
-        System.out.println("CGPA: " + getCGPA()); // ✅ CGPA is private, use getter
+        System.out.println("CGPA: " + getCGPA());
     }
 
 }

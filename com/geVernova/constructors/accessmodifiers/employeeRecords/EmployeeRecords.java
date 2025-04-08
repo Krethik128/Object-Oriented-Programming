@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.employeerecords;
+package geVernova.constructors.accessmodifiers.employeeRecords;
 
 public class EmployeeRecords {
     public static void main(String[] args) {

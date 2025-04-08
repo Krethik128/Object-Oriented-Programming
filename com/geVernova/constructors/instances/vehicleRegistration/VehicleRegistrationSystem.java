@@ -1,4 +1,4 @@
-package geVernova.constructors.instances.vehicleregistration;
+package geVernova.constructors.instances.vehicleRegistration;
 
 public class VehicleRegistrationSystem {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.employeerecords;
+package geVernova.constructors.accessmodifiers.employeeRecords;
 
 class Manager extends Employee {
 
@@ -9,7 +9,6 @@ class Manager extends Employee {
     public void displayEmployeeInfo() {
         System.out.println("Employee ID: " + employeeID);   //  public
         System.out.println("Department: " + department);    //  protected
-        // System.out.println("Salary: " + salary);          private
         System.out.println("Salary: " + getSalary());       //  use getter
     }
 }

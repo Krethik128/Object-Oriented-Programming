@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.booklibrarysystem;
+package geVernova.constructors.accessmodifiers.bookLibrarySystem;
 
 import java.util.Scanner;
 

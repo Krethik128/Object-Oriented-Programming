@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.bankaccountmanagment;
+package geVernova.constructors.accessmodifiers.bankAccountManagment;
 
 public class BankAccountManagement {
     public static void main(String[] args) {

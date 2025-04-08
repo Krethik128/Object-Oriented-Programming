@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.universitymanagment;
+package geVernova.constructors.accessmodifiers.universityManagment;
 
 class PostgraduateStudent extends Student {
     private String specialization;
@@ -14,9 +14,9 @@ class PostgraduateStudent extends Student {
 
     @Override
     void display() {
-        System.out.println("Name: " + name); // ✅ name is protected, accessible here
-        System.out.println("Roll No: " + rollNumber); // ✅ public
+        System.out.println("Name: " + name);
+        System.out.println("Roll No: " + rollNumber);
         System.out.println("Changed name: " + name);
-        System.out.println("CGPA: " + getCGPA()); // ✅ CGPA is private, use getter
+        System.out.println("CGPA: " + getCGPA());
     }
 }

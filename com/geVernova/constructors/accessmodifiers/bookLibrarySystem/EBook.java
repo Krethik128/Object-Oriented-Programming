@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.booklibrarysystem;
+package geVernova.constructors.accessmodifiers.bookLibrarySystem;
 
 class EBook extends Book {
     private String format;
@@ -9,11 +9,10 @@ class EBook extends Book {
     }
 
     public void displayDetails() {
-        System.out.println("EBook ISBN: " + ISBN);      // ✅ public - accessible
-        System.out.println("EBook Title: " + title);    // ✅ protected - accessible
-        // System.out.println("Author: " + author);     ❌ private - not accessible directly
+        System.out.println("EBook ISBN: " + ISBN);
+        System.out.println("EBook Title: " + title);
         System.out.println("Format: " + format);
-        System.out.println("Author: " + get());   // ✅ access via public method
+        System.out.println("Author: " + get());
     }
 
 }

@@ -1,4 +1,4 @@
-package geVernova.constructors.instances.vehicleregistration;
+package geVernova.constructors.instances.vehicleRegistration;
 
 class Vehicle {
     private String ownerName;

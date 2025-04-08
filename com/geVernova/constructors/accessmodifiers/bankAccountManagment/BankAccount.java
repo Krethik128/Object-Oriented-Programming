@@ -1,6 +1,6 @@
-package geVernova.constructors.accessmodifiers.bankaccountmanagment;
+package geVernova.constructors.accessmodifiers.bankAccountManagment;
 
-class BankAccount {
+public class BankAccount {
     public int accountNumber;
     protected String accountHolder;
     private double balance;

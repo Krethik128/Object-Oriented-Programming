@@ -1,6 +1,6 @@
-package geVernova.constructors.accessmodifiers.bankaccountmanagment;
+package geVernova.constructors.accessmodifiers.bankAccountManagment;
 
-class SavingsAccount extends BankAccount {
+public class SavingsAccount extends BankAccount {
 
     public SavingsAccount(int accountNumber, String accountHolder, double balance) {
         super(accountNumber, accountHolder, balance);

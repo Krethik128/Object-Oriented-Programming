@@ -1,4 +1,4 @@
-package geVernova.constructors.accessmodifiers.employeerecords;
+package geVernova.constructors.accessmodifiers.employeeRecords;
 
 class Employee {
     public int employeeID;
