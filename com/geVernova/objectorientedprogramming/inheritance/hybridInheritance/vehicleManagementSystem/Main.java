@@ -3,13 +3,13 @@ package geVernova.objectorientedprogramming.inheritance.hybridInheritance.vehicl
 public class Main {
     public static void main(String[] args){
         System.out.println("\n--- Vehicle Management Hybrid Inheritance ---");
-        ElectricVehicle ev = new ElectricVehicle("Tesla Model S", 250);
-        PetrolVehicle pv = new PetrolVehicle("Honda City", 180);
+        ElectricVehicle teslaModelS = new ElectricVehicle("Tesla Model S", 250);
+        PetrolVehicle petrolVehicle = new PetrolVehicle("Honda City", 180);
 
-        ev.showSpecs();
-        ev.charge();
+        teslaModelS.showSpecs();
+        teslaModelS.charge();
         System.out.println();
-        pv.showSpecs();
-        pv.refuel();
+        petrolVehicle.showSpecs();
+        petrolVehicle.refuel();
     }
 }

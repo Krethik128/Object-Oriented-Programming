@@ -3,18 +3,18 @@ package geVernova.objectorientedprogramming.inheritance.hierarchicalInheritance.
 public class Main {
     public static void main(String[] args){
         System.out.println("\n--- Bank Account System ---");
-        BankAccount acc1 = new SavingsAccount(2001, 50000, 4.5);
-        BankAccount acc2 = new CheckingAccount(2002, 30000, 10000);
-        BankAccount acc3 = new FixedDepositAccount(2003, 100000, 12);
+        BankAccount savingsAccount = new SavingsAccount(2001, 50000, 4.5);
+        BankAccount checkingAccount = new CheckingAccount(2002, 30000, 10000);
+        BankAccount depositAccount = new FixedDepositAccount(2003, 100000, 12);
 
-        acc1.displayBalance();
-        ((SavingsAccount) acc1).displayAccountType();
+        savingsAccount.displayBalance();
+        ((SavingsAccount) savingsAccount).displayAccountType();
         System.out.println();
-        acc2.displayBalance();
-        ((CheckingAccount) acc2).displayAccountType();
+        checkingAccount.displayBalance();
+        ((CheckingAccount) checkingAccount).displayAccountType();
         System.out.println();
-        acc3.displayBalance();
-        ((FixedDepositAccount) acc3).displayAccountType();
+        depositAccount.displayBalance();
+        ((FixedDepositAccount) depositAccount).displayAccountType();
 
     }
 }
